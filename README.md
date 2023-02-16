@@ -1,4 +1,6 @@
-### Supported SoCs
+Melewati Otorisasi CPU Mediatek dilengkapi dengan Preloader untuk melakukan flashing maupun unlocking.
+
+### CPU yang dapat dilewati...
 - mt6261
 - mt6572
 - mt6580

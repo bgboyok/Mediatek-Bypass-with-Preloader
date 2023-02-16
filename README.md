@@ -1,5 +1,5 @@
 Melewati Otorisasi CPU Mediatek dilengkapi dengan Preloader untuk melakukan flashing maupun unlocking.
-
+Gunakan dengan aplikasi Hydra, Unlocktool dan lain-lain.
 ### CPU yang dapat dilewati...
 - mt6261
 - mt6572
@@ -34,3 +34,5 @@ Melewati Otorisasi CPU Mediatek dilengkapi dengan Preloader untuk melakukan flas
 - mt8173
 - mt8590
 - mt8695
+
+Download preloader disini : https://www.mediafire.com/folder/udl7nw29t5poe/Preloader
